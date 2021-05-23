@@ -1,0 +1,4 @@
+16/05/2021 10:53:20 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+

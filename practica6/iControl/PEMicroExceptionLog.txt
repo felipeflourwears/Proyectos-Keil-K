@@ -1,0 +1,20 @@
+20/05/2021 05:35:42 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+
+20/05/2021 07:33:28 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+
+21/05/2021 06:49:36 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+
+21/05/2021 07:53:07 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+
+21/05/2021 09:22:02 p. m.
+Exception occured in functionprog_show_main_window
+Exception Message: Cannot focus a disabled or invisible window
+
